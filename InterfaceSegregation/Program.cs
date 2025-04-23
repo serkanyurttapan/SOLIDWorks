@@ -100,3 +100,9 @@ public class MultiFunctionDevice :IMultiFunctionDevice
         _printer.Print(document);
     }
 }
+/*
+ * Interface Segregation Principle (ISP):
+ *
+ * Bir sınıf, kullanmadığı arayüzleri implement etmemelidir. Yani, büyük ve karmaşık arayüzler yerine daha küçük ve spesifik arayüzler tercih edilmelidir.
+ * Uçmak zorunda olmayan bir çalışana `IFlyable` arayüzü eklemek yerine, sadece ihtiyaç duyduğu `IWorker` arayüzünü implement ederiz.
+ */

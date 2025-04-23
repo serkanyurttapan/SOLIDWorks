@@ -51,3 +51,10 @@ public class Rectangle
         }
     }
 }
+
+/*
+ * Liskov Substitution Principle (LSP):
+ *
+ * Bir sınıfın alt sınıfları, üst sınıflarının yerine geçebilmelidir. Yani, bir alt sınıf, üst sınıfın fonksiyonelliğini bozacak şekilde davranmamalıdır.
+ * Penguen, kuş sınıfından türemesine rağmen uçma fonksiyonu geçerli olmadığı için LSP ihlali yapar.
+ */

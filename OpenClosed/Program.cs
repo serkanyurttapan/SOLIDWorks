@@ -112,3 +112,11 @@ public enum Size
 {
     Small,Medium,Large,Yuge
 }
+
+
+/*
+ * Open/Closed Principle (OCP):
+ *
+ * Bir sınıf, genişletilebilir olmalı ancak değiştirilemez olmalıdır. Yeni özellikler eklemek için mevcut sınıfları değiştirmemeliyiz.
+ * Ödeme işlemlerinde her yeni ödeme yöntemi için var olan sınıfları değiştirmek yerine, yeni sınıflar ekleriz.
+ */
