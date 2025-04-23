@@ -1,0 +1,15 @@
+/Users/serkan.yurttapan/RiderProjects/SOLIDWorks/SOLIDWorks/LiskovSubstitution/bin/Debug/net7.0/LiskovSubstitution
+/Users/serkan.yurttapan/RiderProjects/SOLIDWorks/SOLIDWorks/LiskovSubstitution/bin/Debug/net7.0/LiskovSubstitution.deps.json
+/Users/serkan.yurttapan/RiderProjects/SOLIDWorks/SOLIDWorks/LiskovSubstitution/bin/Debug/net7.0/LiskovSubstitution.runtimeconfig.json
+/Users/serkan.yurttapan/RiderProjects/SOLIDWorks/SOLIDWorks/LiskovSubstitution/bin/Debug/net7.0/LiskovSubstitution.dll
+/Users/serkan.yurttapan/RiderProjects/SOLIDWorks/SOLIDWorks/LiskovSubstitution/bin/Debug/net7.0/LiskovSubstitution.pdb
+/Users/serkan.yurttapan/RiderProjects/SOLIDWorks/SOLIDWorks/LiskovSubstitution/obj/Debug/net7.0/LiskovSubstitution.csproj.AssemblyReference.cache
+/Users/serkan.yurttapan/RiderProjects/SOLIDWorks/SOLIDWorks/LiskovSubstitution/obj/Debug/net7.0/LiskovSubstitution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serkan.yurttapan/RiderProjects/SOLIDWorks/SOLIDWorks/LiskovSubstitution/obj/Debug/net7.0/LiskovSubstitution.AssemblyInfoInputs.cache
+/Users/serkan.yurttapan/RiderProjects/SOLIDWorks/SOLIDWorks/LiskovSubstitution/obj/Debug/net7.0/LiskovSubstitution.AssemblyInfo.cs
+/Users/serkan.yurttapan/RiderProjects/SOLIDWorks/SOLIDWorks/LiskovSubstitution/obj/Debug/net7.0/LiskovSubstitution.csproj.CoreCompileInputs.cache
+/Users/serkan.yurttapan/RiderProjects/SOLIDWorks/SOLIDWorks/LiskovSubstitution/obj/Debug/net7.0/LiskovSubstitution.dll
+/Users/serkan.yurttapan/RiderProjects/SOLIDWorks/SOLIDWorks/LiskovSubstitution/obj/Debug/net7.0/refint/LiskovSubstitution.dll
+/Users/serkan.yurttapan/RiderProjects/SOLIDWorks/SOLIDWorks/LiskovSubstitution/obj/Debug/net7.0/LiskovSubstitution.pdb
+/Users/serkan.yurttapan/RiderProjects/SOLIDWorks/SOLIDWorks/LiskovSubstitution/obj/Debug/net7.0/LiskovSubstitution.genruntimeconfig.cache
+/Users/serkan.yurttapan/RiderProjects/SOLIDWorks/SOLIDWorks/LiskovSubstitution/obj/Debug/net7.0/ref/LiskovSubstitution.dll
